@@ -8,14 +8,14 @@ agustinadisiot/agustinadisiot is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Agustín</h1>
+<h1 align="center">Hi 👋, I'm Agustima</h1>
 <h3 align="center">I'm a Software Engineering student</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinadisiot&show_icons=true&locale=en&theme=blueberry" alt="agustinadisiot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinadisiot&show_icons=true&locale=en&theme=synthwave" alt="agustinadisiot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agustinadisiot&theme=blueberry" alt="agustinadisiot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agustinadisiot&theme=dracula" alt="agustinadisiot" /></p>
 
-<p><img align="left" src="https://github-readme-stats-nine-blush.vercel.app/api/top-langs?username=agustinadisiot&show_icons=true&locale=en&layout=compact&theme=blueberry&langs_count=10" alt="agustinadisiot" /></p>
+<p><img align="left" src="https://github-readme-stats-nine-blush.vercel.app/api/top-langs?username=agustinadisiot&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="agustinadisiot" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
