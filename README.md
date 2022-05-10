@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agustinadisiot
 - 👀 I’m interested in math, bass, guitar, code
-- 🌱 I’m currently Golang, PowerBI, Python (PySpark library)
+- 🌱 I’m currently learning Golang, PowerBI, Python (PySpark library)
 - 📫 How to reach me: https://www.linkedin.com/in/agustina-disiot-6b2198236/
 
 <!---
